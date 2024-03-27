@@ -167,7 +167,7 @@ if choice == 2:
     decmessage = str(input("Here: "))
 
 decod = {
-    "0@£$%£*&": "a",  # eshte ok deri tek }
+    "0@£$%£*&": "a",  
     "0!%^^!$)": "b",
     "0+^%^%^": "c",
     "0?%^&*!$": "d",

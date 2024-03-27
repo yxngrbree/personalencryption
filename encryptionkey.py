@@ -3,9 +3,6 @@
 f = "error"  # testues
 y = "success"  # testues
 
-# Main
-
-# encryption part
 wlc = "Welcome to the Fepo encryption software, please choose an option from the list below:"
 print(wlc)
 opt1 = "1. Encrypt"

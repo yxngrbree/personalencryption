@@ -17,9 +17,6 @@ if choice == 1:
     print("You have chosen Encryption.")
     print("Enter your message you want to encrypt")
 
-    message = str(input("Here: "))  # per testim
-    wordlist = [chr(ord('A') + i) for i in range(26)] + [chr(ord('a') + i) for i in range(26)]  # per testim
-    numlis = [int(0 + i) for i in range(10)]  # per testim
 
     for number in range(17):
         for numberj in range(number):

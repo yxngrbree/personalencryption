@@ -230,7 +230,7 @@ decod = {
 
 def decrypt_message(enc_message):
     dec_message = []
-    key_length = len(list(decod.keys())[0])  # length of a key in the dictionary
+    key_length = len(list(decod.keys())[0])  
     for i in range(0, len(enc_message), key_length):
         enc_word = enc_message[i:i+key_length]
         if enc_word in decod:

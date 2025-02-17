@@ -36,9 +36,9 @@ Usage
 Run the script and follow the on-screen instructions:
 
 bash
-Copy
-Edit
 python fepo_encryption.py
+
+
 Contributing
 Feel free to fork this project, suggest improvements, or report issues! 🚀
 

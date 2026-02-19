@@ -1,3 +1,5 @@
+# ENCRYPTION SYSTEM
+
 Fepo Encryption Software 🛡️🔐 Overview Fepo Encryption Software is a simple Python program that encrypts and decrypts messages using a custom character substitution method. Users can choose between encryption and decryption through a menu-driven interface.
 
 How It Works

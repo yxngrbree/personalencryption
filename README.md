@@ -18,7 +18,8 @@ Encryption Converts each character into a unique symbol sequence. Uses multiple 
 
 Decryption Reads the encrypted text in segments. Uses a dictionary lookup to reconstruct the original message. Potential Improvements ✔️ Fix undefined message variable in encryption. ✔️ Replace multiple if statements with dictionary lookups for efficiency. ✔️ Expand character set to include punctuation and special symbols. ✔️ Improve handling of variable-length encrypted sequences.
 
-Usage Run the script and follow the on-screen instructions:
+Usage 
+Run the script and follow the on-screen instructions:
 
 bash python fepo_encryption.py
 

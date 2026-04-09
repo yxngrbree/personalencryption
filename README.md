@@ -14,9 +14,6 @@ Encryption Process The user enters a message to be encrypted. Each character in 
 
 Decryption Process The user enters an encrypted message. The program reads the message in fixed-length chunks. Each chunk is translated back to its original character using a decryption dictionary. The decrypted message is displayed. Code Breakdown
 
-Encryption Converts each character into a unique symbol sequence. Uses multiple if conditions to map characters.
-
-Decryption Reads the encrypted text in segments. Uses a dictionary lookup to reconstruct the original message. Potential Improvements ✔️ Fix undefined message variable in encryption. ✔️ Replace multiple if statements with dictionary lookups for efficiency. ✔️ Expand character set to include punctuation and special symbols. ✔️ Improve handling of variable-length encrypted sequences.
 
 Usage 
 Run the script and follow the on-screen instructions:
